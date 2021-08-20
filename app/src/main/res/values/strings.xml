@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="content_desc">the application logo</string>
+    <string name="placeholder_num">42</string>
+    <string name="input_label1">an input label number</string>
+    <string name="text_hint">Enter a number...</string>
+    <string name="button_text">Submit</string>
+    <string name="random_button_text">Submit a random number</string>
+    <string name="decrement_text">-</string>
+    <string name="incrment_text">+</string>
+    <string name="placeholder_interval">1</string>
+    <string name="summary_placeholder">0</string>
+</resources>
